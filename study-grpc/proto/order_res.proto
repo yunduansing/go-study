@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package proto;
+
+option go_package="study-grpc/proto";
+
+message CreateOrderRes{
+  string orderId=1;
+  string createdTime=2;
+  int32 state=3;
+}

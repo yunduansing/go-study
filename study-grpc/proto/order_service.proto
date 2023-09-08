@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package proto;
+
+option go_package="study-grpc/proto";
+
+import "order_req.proto";
+import "order_res.proto";
+
+service Order {
+  rpc CreateOrder(CreateOrderReq) returns (CreateOrderRes) {}
+}
