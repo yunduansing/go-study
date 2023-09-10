@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/golang/protobuf v1.5.3
-	github.com/yunduansing/gtools v0.0.0-20230907085119-81c32284c32f
+	github.com/yunduansing/gtools v0.0.0-20230908084441-18cdd650d87b
 	google.golang.org/grpc v1.56.2
 	google.golang.org/protobuf v1.30.0
 )

@@ -1,0 +1,2 @@
+2023-09-08 20:15:58	[34mINFO[0m	logger/zap.go:54	收到rpc create请求,in= {"amount":200,"user":{"userId":10,"phone":"18888888888","address":"IFS","areaId":555550},"goods":[{"skuId":"1","number":1,"price":100}]} 	{"logId": "8ae9af27-d76c-4260-97a2-3808cd6cb95b"}
+2023-09-08 20:18:56	[34mINFO[0m	logger/zap.go:54	收到rpc create请求,in= {"amount":200,"user":{"userId":10,"phone":"18888888888","address":"IFS","areaId":555550},"goods":[{"skuId":"1","number":1,"price":100}]} 	{"logId": "4a89a1d2-bc6f-4cc3-bf84-6eab1f90efb0"}
